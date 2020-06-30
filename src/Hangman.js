@@ -78,7 +78,7 @@ class Hangman extends Component {
         <h2 className="Hangman-endResult-win">
           You Win!!!
           <span role="img" aria-label="img">
-            😍😍😎
+            😍😎
           </span>
         </h2>
       );
