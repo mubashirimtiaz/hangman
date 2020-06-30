@@ -9,7 +9,7 @@
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.27),
     0 0 40px rgba(0, 0, 0, 0.06) inset;
   margin: 20px 0;
-  width: 300px;
+  width: 250px;
 }
 .Hangman-endResult-win {
   color: yellowgreen;

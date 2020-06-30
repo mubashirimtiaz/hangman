@@ -89,7 +89,6 @@ class Hangman extends Component {
     return (
       <div className="Hangman">
         <h1>Hangman</h1>
-        {this.guessedWord().join("") === this.state.answer && <h1>You Win</h1>}
 
         <img src={this.props.images[this.state.nWrong]} alt={altText} />
         <p>Guessed Wrong : {this.state.nWrong}</p>
